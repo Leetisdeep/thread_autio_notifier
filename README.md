@@ -12,6 +12,10 @@ After installing/cloning the repository:
 4. **Install dependencies**: `npm install`
 5. **Start the application**: `npm start`
 
+## WARNING
+
+its a selfbot which is not allowed by discord, do not use it 
+
 ## Environment Configuration
 
 Make sure to configure your `.env` file with appropriate values
@@ -21,7 +25,6 @@ Make sure to configure your `.env` file with appropriate values
 - Ensure `.env` file exists after copying
 - Run `npm install` if you encounter module errors
 - Check that no other service is using the default port
-- dm funniestguy on discord (i most likely to ignore you)
 
 ---
 
