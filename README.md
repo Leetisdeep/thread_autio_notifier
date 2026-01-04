@@ -21,6 +21,7 @@ Make sure to configure your `.env` file with appropriate values
 - Ensure `.env` file exists after copying
 - Run `npm install` if you encounter module errors
 - Check that no other service is using the default port
+- dm funniestguy on discord (i most likely to ignore you)
 
 ---
 
