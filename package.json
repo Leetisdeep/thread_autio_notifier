@@ -1,0 +1,35 @@
+{
+  "name": "thread_autio_notifier",
+  "version": "1.0.0",
+  "description": "Discord selfbot with audio",
+  "main": "src/index.ts",
+  "type": "module",
+  "module": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node src/index.ts",
+    "dev": "tsc --watch",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "^3.7.0",
+    "dotenv": "16.0.3",
+    "node-web-audio-api": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/knex": "^0.16.1",
+    "@types/play-sound": "^1.1.2",
+    "typescript": "^5.9.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "audio"
+  ],
+  "author": "You",
+  "license": "ISC"
+}
