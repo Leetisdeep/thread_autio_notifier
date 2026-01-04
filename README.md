@@ -1,4 +1,4 @@
-# Disrcord Thread_Create Audio Notifier
+# Disrcord selfbot Thread_Create Audio Notifier
 
 Plays an audio from sounds folder when thread is crated at targeted channel
 
